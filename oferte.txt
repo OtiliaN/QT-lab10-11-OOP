@@ -1,0 +1,10 @@
+mare,Mamaia,vacanta,1500
+city-break,Praga,vacanta,600
+mare,Italia,tabara,9000
+mare,Saturn,tabara,150.5
+city-break,Paris,aaaa,200
+munte,Busteni,vacanta,900
+mare,Croatia,croaziera,9000
+city-break,Praga,croaziera,600
+mare,Italia,vacanta,6000
+munte,Sinaia,tabara,150
